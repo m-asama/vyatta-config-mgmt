@@ -21,7 +21,8 @@ libtool
 /debian/vyatta-config-mgmt.substvars
 /debian/vyatta-config-mgmt.postinst
 /debian/vyatta-config-mgmt.debhelper.log
+/debian/.debhelper/
+/debian/changelog.*
 /INSTALL
 /Makefile.in
 /Makefile
-
